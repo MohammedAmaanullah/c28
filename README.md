@@ -1,2 +1,2 @@
-# c28
-drag the mouse to release the bird
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
